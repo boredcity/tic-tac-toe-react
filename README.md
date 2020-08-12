@@ -6,3 +6,4 @@ TODO:
 - win condition
 - draw handling
 - play vs ai
+- add pages
