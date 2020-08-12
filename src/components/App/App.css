@@ -1,0 +1,17 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+}
+
+.app__base {
+  display: flex;
+  flex-direction: column;
+}
+
+.app__base_loading {
+  opacity: .3;
+}

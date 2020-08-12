@@ -1,0 +1,7 @@
+.settings {
+    margin: 20px;
+}
+
+.settings__input_with-error {
+    color: red;
+}

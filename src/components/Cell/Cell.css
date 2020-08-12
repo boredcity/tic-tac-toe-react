@@ -1,0 +1,20 @@
+.cell {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cell_empty {
+    cursor: pointer;
+}
+
+.cell:not(.cell_with-top-border) {
+    border-top-color: transparent;
+}
+
+.cell:not(.cell_with-left-border) {
+    border-left-color: transparent;
+}

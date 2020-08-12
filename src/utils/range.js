@@ -1,0 +1,1 @@
+export const range = (count) => Array(count).fill(null);
